@@ -68,7 +68,7 @@ To ensure the code works correctly, please follow these setup instructions:
 
 ### **2. Display Reservations**
 #### **Display All**
-![Display All](img/search-availability.png)
+![Display All](img/display-all.png)
 #### **Display By Date**
 ![Display By Date](img/display-by-date.png)
 
