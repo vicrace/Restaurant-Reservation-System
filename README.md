@@ -58,7 +58,7 @@ To ensure the code works correctly, please follow these setup instructions:
   
 ## **System Structure Chart**
 
-![Structure Chart](images/structure-chart.png)
+![Structure Chart](img/structure-chart.png)
 
 
 ## **Example Output**
