@@ -1,6 +1,6 @@
 # Restaurant-Reservation-System
 
-This repository contains my C++ assignment (May 2019), which is a console application designed to help restaurant staff manage customer reservations. The system allows staff to add, search, update, and display reservations.
+This repository contains a console application designed to help restaurant staff manage customer reservations. The system allows staff to add, search, update, and display reservations.
 
 ## **User Requirements**
 
